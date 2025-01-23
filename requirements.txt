@@ -1,2 +1,2 @@
-networkx==2.5
+networkx==2.8
 pytest>=3.0
