@@ -10,7 +10,7 @@ def test_bfs_traversal():
     that all nodes are being traversed (ie. returns 
     the right number of nodes, in the right order, etc.)
     """
-    g = graph("/data/tiny_network.adjlist")
+    g = graph("data/tiny_network.adjlist")
 
     # choosing start node
     start_node = "Luke Gilbert" # first name in the file 
@@ -37,7 +37,7 @@ def test_bfs():
     Include an additional test for nodes that are not connected 
     which should return None. 
     """
-    g = graph('/data/citation_network.adjlist')
+    g = graph('data/citation_network.adjlist')
     
     # ran on 34413319 from (34413319;Nadav Ahituv) and got 31308376 as the last node in the list
     start_node = '34413319'
