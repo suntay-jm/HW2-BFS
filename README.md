@@ -1,3 +1,4 @@
+![BuildStatus](https://github.com/suntay-jm/HW2-BFS/workflows/HW2-BFS/badge.svg?event=push)
 # Assignment 2
 Breadth-first search
 
@@ -27,21 +28,13 @@ In test/test_bfs.py:
 
 
 ## Software Development Assessment
+# Breadth-First Search (BFS)
+bfs() takes an undirected graph and makes it directed to explore nodes layer by layer in order to find the shortest path
 
-* Write unit tests (in the test_bfs.py file) for your breadth first search
-* Replace these instructions with a brief description of bfs in your forked repo
-	
-* Automate Testing with a [Github Actions](https://docs.github.com/en/actions)
 
-	See blogposts below on helping set up github actions with pytest:
-	
-	* [post 1](https://blog.dennisokeeffe.com/blog/2021-08-08-pytest-with-github-actions)
-	* [post 2](https://mattsegal.dev/pytest-on-github-actions.html)
-	* Add "! [BuildStatus] (https://github.com/ < your-github-username > /HW2-BFS/workflows/HW2-BFS/badge.svg?event=push)" (update link and remove spaces) to the beginning of your readme file
-	* Also refer to previous assignment for more in-depth help with GitHub actions
+![BuildStatus](https://github.com/<your-github-username>/HW2-BFS/workflows/HW2-BFS/badge.svg?event=push)
 
-	Ensure that the github actions complete the following:
-	* runs pytest
+
 
 # Getting Started
 To get started you will need to fork this repository onto your own github. You will then work on the code base from your own repo and make changes to it in the form of commits. 
