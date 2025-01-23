@@ -31,11 +31,6 @@ In test/test_bfs.py:
 # Breadth-First Search (BFS)
 bfs() takes an undirected graph and makes it directed to explore nodes layer by layer in order to find the shortest path
 
-
-![BuildStatus](https://github.com/<your-github-username>/HW2-BFS/workflows/HW2-BFS/badge.svg?event=push)
-
-
-
 # Getting Started
 To get started you will need to fork this repository onto your own github. You will then work on the code base from your own repo and make changes to it in the form of commits. 
 
