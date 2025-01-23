@@ -1,5 +1,4 @@
-![BuildStatus](https://github.com/suntay-jm/HW2-BFS/workflows/HW2-BFS/badge.svg?event=push)
-# Assignment 2
+![BuildStatus](https://github.com/suntay-jm/HW2-BFS/workflows/Matt%20Suntay/badge.svg?event=push)
 Breadth-first search
 
 # Assignment Overview
